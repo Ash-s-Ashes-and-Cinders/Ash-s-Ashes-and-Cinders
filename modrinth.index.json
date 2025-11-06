@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+        "minecraft":"1.21.1",
+        "neoforge":"21.1.213"
+    },
+    "files":[],
+    "formatVersion":1,
+    "game":"minecraft",
+    "name":"Tchou Tchou",
+    "summary":"---\n\nTchou Tchou Modpack",
+    "versionId":"1.0.0"
+}
