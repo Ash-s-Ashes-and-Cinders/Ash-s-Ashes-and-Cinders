@@ -1,5 +1,5 @@
-# Tchou Tchou modpack
-Le modpack *Tchou Tchou modpack* est un modpack créé par AshyanTel pour ses amis.
+# Ash's Ashes & Cinders modpack
+Le modpack *Ash's Ashes & Cinders modpack* est un modpack créé par AshyanTel pour ses amis.
 Le but est de s'amuser le plus possible aussi il ne se pose pas la question d'ajouter un milliard de mods inutiles. Les efforts sont concentrés sur Create Mod et sur des mods permettant d'améliorer ou d'enrichir le jeu de base.
 
 ## TO-DO
