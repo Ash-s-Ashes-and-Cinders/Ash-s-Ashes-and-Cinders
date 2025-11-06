@@ -2,7 +2,7 @@
 .PHONY: all clean
 
 all: modrinth.index.json
-	zip -r Ashs_Ashes_and_Cinders.zip modrinth.index.json
+	zip -r Ashs_Ashes_and_Cinders.zip modrinth.index.json overrides
 	mv Ashs_Ashes_and_Cinders.zip "Ash's Ashes and Cinders.mrpack"
 
 clean:

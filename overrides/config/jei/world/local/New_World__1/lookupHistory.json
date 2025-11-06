@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create_ironworks:steel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_ore_factory:steel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_ironworks:charcoal_dust"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

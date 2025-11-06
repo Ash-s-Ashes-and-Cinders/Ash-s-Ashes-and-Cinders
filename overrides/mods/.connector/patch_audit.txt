@@ -1,0 +1,15 @@
+==== Connector Mixin Patch Audit Summary ====
+Successful: 0
+Partial: 2
+Failed: 0
+Success rate: 100.00%        Accuracy: 50.00%
+=============================================
+
+Mixin method me/pepperbell/continuity/client/mixin/FallingBlockEntityRendererMixin continuity$beforeRenderModel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+  >> Using org.sinytra.adapter.patch.transformer.operation.unit.ModifyInjectionPoint
+     - Change injection point to Lnet/minecraft/client/renderer/block/BlockRenderDispatcher;getBlockModel(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/client/resources/model/BakedModel;
+
+Mixin method me/pepperbell/continuity/client/mixin/FallingBlockEntityRendererMixin continuity$afterRenderModel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+  >> Using org.sinytra.adapter.patch.transformer.operation.unit.ModifyInjectionPoint
+     - Change injection point to Lnet/minecraft/client/renderer/block/ModelBlockRenderer;tesselateBlock(Lnet/minecraft/world/level/BlockAndTintGetter;Lnet/minecraft/client/resources/model/BakedModel;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;ZLnet/minecraft/util/RandomSource;JILnet/neoforged/neoforge/client/model/data/ModelData;Lnet/minecraft/client/renderer/RenderType;)V
+
