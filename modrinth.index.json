@@ -2271,6 +2271,276 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/cTm36Ih9/versions/M2yDljUP/Blockier%20Goat%20Horn%20v1.2.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 7668,
+            "hashes": {
+                "sha1": "8b574c262d271c59c6489a4d25648ab6ef33ede3",
+                "sha512": "7ba74126c5276501de3185505614d9d40b0903a0f4e64a42783cb9a9e46ce1331586fd7968528468859feadd61d0e7715fd7d52c0ebe8265d74fb9f3b4a618a8"
+            },
+            "path": "resourcepacks/Blockier Goat Horn v1.2.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/3KLJnXcN/versions/BNF0gmxm/Computer%20Craft%20Recreated%20v1.1.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 130353,
+            "hashes": {
+                "sha1": "221a81123c2533f29a2839585297aa199299ceb4",
+                "sha512": "d80a3ff79033989b2555d382c2b12ef2c221eec07ee01e4c0119aa27f9e811fe305761f89c3f18692af2d1aa514d397f0010de7bdb356380512cf8dbfdfe0f4d"
+            },
+            "path": "resourcepacks/Computer Craft Recreated v1.1.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/mh9nQqo4/versions/KGjoGhyf/Create%20Computers%201.2.1%20-%201.20.1%20Resource%20Pack%20Only.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 271976,
+            "hashes": {
+                "sha1": "89523056b726cab84f99540954d071a5f57ee8ea",
+                "sha512": "61606ef330b2ed87282fc0139e0ee64ce9021d400bce7e82493a4c1821c434fa65ef04fb5ba2df701dec52a95976fc967dc4853d63f53100c5d6ad2eadc9c9f4"
+            },
+            "path": "resourcepacks/Create Computers 1.2.1 - 1.20.1 Resource Pack Only.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/avHOJfxd/versions/q5JhahnV/Create%20LootR%20Chest.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 477799,
+            "hashes": {
+                "sha1": "9e32930065d546e028fa5cd96bf6fdbc9dd4fb10",
+                "sha512": "727b84c1f6253db41cb39f95e3b9ff875871ce3512cbf1da869ceaf43144c9e26409a361d57a196e2023bdbc42bb6c1d6e4317482199c93eb5ed27fd9ac65671"
+            },
+            "path": "resourcepacks/Create LootR Chest.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/9MkP9t9t/versions/gmkQsXXv/CreateSophStorage.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 613558,
+            "hashes": {
+                "sha1": "51d06ef9f22b9716c99d911a8aa1cb5b0c7ed318",
+                "sha512": "74b24c280893b93cab80de62159c68dbd93fdc4cbb5c7c34de5c9557fcc82d4ebf8d6b29dca161fd808459c36483a8eec35b7d0a401d161aa15ba2eecb46cc82"
+            },
+            "path": "resourcepacks/CreateSophStorage.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/srJbhHkf/versions/KZj2cwZF/CreateSophisticatedBackpacks.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 556651,
+            "hashes": {
+                "sha1": "0a119ab68a6b2cb824d545c0dc2dc44b1339cc94",
+                "sha512": "0e3d5b38b9b4c578e9612f61450386fcfb59b301909c27991830636fa7d76f45db4d61f360fe181fe3216b71636eba16dcb308c395932d1283e44a6a70a82ea8"
+            },
+            "path": "resourcepacks/CreateSophisticatedBackpacks.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/ERIIRqC7/versions/uezQsgW3/CreateWaystones%20v1.0.2.b.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 621146,
+            "hashes": {
+                "sha1": "26cac9dde1e80563552237bb89364e5fad2b978c",
+                "sha512": "3fdd8e0cb77397362d84402c17d1ae2fbf22f52cb437bf40b89917cd3d2150be28febf52e17999d3a699ed1915c2008f1d62408957d73c1692c379693813dc10"
+            },
+            "path": "resourcepacks/CreateWaystones v1.0.2.b.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/UGEVQ6t9/versions/ZJEBZjg6/Fancy%20Crops%20v1.3.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 92779,
+            "hashes": {
+                "sha1": "788e5169eb064b696b2e20d4c5d998cceb387a2e",
+                "sha512": "ce8e34ce76f5368169722f9949edf372af5d9e1d3c262395006a5a1561ed7bae1259b9d69e4838914d637817f611283bfaf8be07c7b45b317fd2bdb22f32b7e3"
+            },
+            "path": "resourcepacks/Fancy Crops v1.3.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/H0Q0y5Fn/versions/sXzklk0i/Fine%20Armoury%20v1.7.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 70838,
+            "hashes": {
+                "sha1": "b56e4d596a84228281e250d76cbf9bc645432256",
+                "sha512": "7aa41e80bc16016744059bdd307523471cc2ea5af7160e24b3ce40c8b350e39bad9c246d53eee1da5f0a762bdfac5fdacbb35d0bb949debf78df275adc4a3107"
+            },
+            "path": "resourcepacks/Fine Armoury v1.7.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/YvVQg79k/versions/2q7GowmP/Fluffy%20Carpets%20v1.1.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 62654,
+            "hashes": {
+                "sha1": "5914d8fe664f33b832b7181f84069e92f34dcf40",
+                "sha512": "dd4765456adb701cdfab0f543b63bb43c0b47fdcf1449fda018e7cc1fd5d3340596d8b23bfd7ae9ae6962541c039f2187ddd5daee0c09f425ec70839771d02fe"
+            },
+            "path": "resourcepacks/Fluffy Carpets v1.1.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/LWGq2eg6/versions/gOX3ZiSy/Icon%20Xaero%27s%201.21.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 18005894,
+            "hashes": {
+                "sha1": "ff715eb6a1ec2902963a083df8f5f56e6552a7a0",
+                "sha512": "2e84945a3f21ff31c8a773ef40d7ef051c34e2b4f067eb8ba26cc19f9176514da6d6cbda6867882acb8d8b36f63bdeae416b0bb9fee3ad3964d6ec2362313cfb"
+            },
+            "path": "resourcepacks/Icon Xaero's 1.21.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/1jZGHJ05/versions/YCU6MIBD/Low%20Fire.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 44659,
+            "hashes": {
+                "sha1": "b91f5b1f480cf93bd45fb252da5914f06e8278f7",
+                "sha512": "f5b7b144452e3ba311ecfa2005996febecafc1c6948fe60b5dba42467e70f21cf5a841a417fafa73d8435559ecb2d6d0c76b29d1b142f1485831a22d33859e8a"
+            },
+            "path": "resourcepacks/Low Fire.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/CZrLuVQo/versions/MelvnUPt/Low%20Shield.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 3881,
+            "hashes": {
+                "sha1": "f9c2400529cd17c72e932c7882532a47d4206f25",
+                "sha512": "a2830f837c759854df4a2dd7f8b71c8701c4bd3f4ad39db9b7f1b9cb7400cf0b80aa90bdee60e002be68ce6f350836ce8b7cef2a34c7bbca94488977cf2e495a"
+            },
+            "path": "resourcepacks/Low Shield.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/oL18adaQ/versions/BG46xXmQ/NewGlowingOres-%C2%A76%5BBorder%5D%C2%A7r.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 344937,
+            "hashes": {
+                "sha1": "40d8c6748585e4585c8d1e54a28b8ea51cad080d",
+                "sha512": "29b9e71e9bc6473070ce2e73a3a9960170a6f1ef089459ffc93254067bc55d2ef4a65357848b433dca3a9a622909f9fd734c1f9dab3da68ae3448cddbf982a3c"
+            },
+            "path": "resourcepacks/NewGlowingOres-\u00a76[Border]\u00a7r.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/RvfAlf4Z/versions/xOTseQGw/Redstone%20Tweaks%202.5.2.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1736314,
+            "hashes": {
+                "sha1": "d9a3ac4dc4f5c01dfc7cf89c02c09805a6c98034",
+                "sha512": "b6977a798abd8863afeb0120ea455e3df1305744879d8f600e08961aec54a37fe99ad45ae3e73bbb943625941fdb3a135f532e69777e766eeb96c2c9ca7fb530"
+            },
+            "path": "resourcepacks/Redstone Tweaks 2.5.2.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/L0iIXINl/versions/HKB3P2R0/Serified%20Font%20v1.2.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 43934,
+            "hashes": {
+                "sha1": "9c9d6510193d0868bde9301c5d04e15537d561d5",
+                "sha512": "0adda142d393cff2a041ac7529a3b846b3a25aac83ea88dacc607af52150f7c3c7cc48b015ea7d1b7866edffcfa5c5363f953af518cd454faa4fea1bdb4de6bc"
+            },
+            "path": "resourcepacks/Serified Font v1.2.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/9NXbHzs3/versions/GEmuHI9p/UD%20Refined%20-%20Lite%20-%201.20.2-1.21.x.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 6021825,
+            "hashes": {
+                "sha1": "7729c9b251a162f4e9fb82bed0e200d4a7c0aa12",
+                "sha512": "47dec2b80df70c8febfa2f5f25bfbb15819d4c3040b977c9d6e76d83e1b66013ca62f13fa3ef5be5c7acc24a3b53ebeb508404e8edf2f11500501d037d6838ac"
+            },
+            "path": "resourcepacks/UD Refined - Lite - 1.20.2-1.21.x.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/Z6cnZeGU/versions/wEBZ7Vhy/Visual%20Titles%201.1.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 591271,
+            "hashes": {
+                "sha1": "514dd4dead2b16e7b699d3546ae26b05afb3e4eb",
+                "sha512": "e165def610cabd66a088105d2fffc4ca7aab3b26c080f6a3d3eb7eb4124a0ce14df9ea0552b26dc0a8eff33d0c6d853b11011a65aca52b4863f5e98170d8d6ae"
+            },
+            "path": "resourcepacks/Visual Titles 1.1.zip"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/HVnmMxH1/versions/OfRF7dTR/ComplementaryReimagined_r5.6.1.zip"
             ],
             "env": {
