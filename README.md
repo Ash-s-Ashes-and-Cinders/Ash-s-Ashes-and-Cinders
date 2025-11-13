@@ -26,6 +26,8 @@ Le but est de s'amuser le plus possible aussi il ne se pose pas la question d'aj
 - [Balm](https://modrinth.com/mod/MBAkmtvl) [21\.0\.54] by BlayTheNinth
 - [Bartering Station](https://modrinth.com/mod/EOig9U0j) [21\.1\.0] by Fuzs
 - [Blossom Blade](https://modrinth.com/mod/UMmSTwE0) [1\.3] by joshieman
+- [Brewin' And Chewin'](https://modrinth.com/mod/hIu9KJTT) [4\.4\.1] by Probleyes, Umpaz, MerchantCalico
+- [Bundle Recipe](https://modrinth.com/mod/Hkc2j5Bf) [1\.21\.1\-v1\.1\.0] by Rebel459
 - [CC: Tweaked](https://modrinth.com/mod/gu7yAYhd) [1\.116\.2] by Daniel Ratcliffe, Aaron Mills, SquidDev
 - [CC:C Bridge](https://modrinth.com/mod/fXt291FO) [1\.7\.2] by Sammy L\. Koch
 - [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) [0\.14\.0] by dzwdz, Fourmisain
@@ -70,6 +72,7 @@ Le but est de s'amuser le plus possible aussi il ne se pose pas la question d'aj
 - [Easy Magic](https://modrinth.com/mod/9hx3AbJM) [21\.1\.4] by Fuzs
 - [Easy Shulker Boxes](https://modrinth.com/mod/gA5euN8S) [21\.1\.3] by Fuzs
 - [Echo Chest](https://modrinth.com/mod/m3pkVbY8) [21\.1\.1] by Fuzs
+- [End Villager Trader](https://modrinth.com/mod/8oJ8PoQe) [1\.0\.0] by Leonxkingx, MadeBySanny
 - [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) [3\.0\.1] by Traben
 - [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) [7\.0\.2] by Traben
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1\.9\.3] by tr7zw
@@ -103,7 +106,13 @@ Le but est de s'amuser le plus possible aussi il ne se pose pas la question d'aj
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ) [0\.15\.0\+mc1\.21\.1] by 2No2Name, JellySquid
 - [Lootr](https://modrinth.com/mod/EltpO5cN) [1\.21\-1\.10\.35\.91] by Noobanidus
 - [Mechanicals Lib](https://modrinth.com/mod/ProvjTA7) [1\.0\.10] by oierbravo
+- [Moog's End Structures](https://modrinth.com/mod/r4PuRGfV) [1\.4\.6\-1\.21] by FinnDog
+- [Moog's Structure Lib](https://modrinth.com/mod/1oUDhxuy) [1\.0\.1\-1\.21\-1\.21\.1] by FinnDog
+- [MoogsMissingVillages](https://modrinth.com/mod/spZb29SD) [2\.0\.0] by FinnDog
+- [MoogsNetherStructures](https://modrinth.com/mod/nGUXvjTa) [2\.0\.0] by FinnDog
+- [MoogsVoyagerStructures](https://modrinth.com/mod/OQAgZMH1) [5\.0\.1] by FinnDog
 - [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) [1\.21\-2\.25\.5] by MehVahdJukaar
+- [Mounts of Mayhem](https://modrinth.com/mod/3vLDJ86g) [1\.9\.5] by Gospi\_
 - [Nether Chested](https://modrinth.com/mod/bHJp2GRg) [21\.1\.0] by Fuzs
 - [Netherracked](https://modrinth.com/mod/vNFbVrF1) [1\.0\.4] by IranMine123
 - [No Telemetry](https://modrinth.com/mod/hg77g4Pw) [1\.9\.0] by kb1000
@@ -114,6 +123,7 @@ Le but est de s'amuser le plus possible aussi il ne se pose pas la question d'aj
 - [Ore Harvester](https://modrinth.com/mod/Xiv4r347) [1\.5] by Rick South
 - [Particle Core](https://modrinth.com/mod/RSeLon5O) [0\.2\.6\+1\.21\+neoforge] by fzzyhmstrs
 - [Pause Server When Empty](https://modrinth.com/mod/ghDvRD8t) [1\.4\.1] by Bodebojo, XtraDavido
+- [Platform](https://modrinth.com/mod/i6fiqm5y) [1\.2\.10\.2] by ItsBlackGear
 - [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) [21\.1\.39] by Fuzs
 - [Raised](https://modrinth.com/mod/nCQRBEiR) [5\.0\.2] by yurisuika
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [1\.8\.3\+mc1\.21\.4] by FlashyReese
@@ -138,6 +148,7 @@ Le but est de s'amuser le plus possible aussi il ne se pose pas la question d'aj
 - [Sophisticated Storage Create Integration](https://modrinth.com/mod/MJ0hdevs) [0\.1\.13] by P3pp3rF1y
 - [Sophisticated Storage In Motion](https://modrinth.com/mod/6vtFbyaJ) [0\.10\.24] by P3pp3rF1y
 - [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) [1\.21\.1\-1\.5\.1] by Sonic Ether, vlad2305m, Max Henkel
+- [Spring to Life](https://modrinth.com/mod/RU1Os6h8) [1\.3\.2] by LarsenR
 - [Structory: Towers](https://modrinth.com/mod/j3FONRYr) [1\.0\.14] by Stardust Labs
 - [Terralith](https://modrinth.com/mod/8oi3bsk5) [2\.5\.8] by Stardust Labs
 - [Trade Cycling](https://modrinth.com/mod/qpPoAL6m) [1\.21\.1\-1\.0\.18] by Max Henkel
@@ -146,6 +157,8 @@ Le but est de s'amuser le plus possible aussi il ne se pose pas la question d'aj
 - [Tree Harvester](https://modrinth.com/mod/abooMhox) [9\.1] by Rick South
 - [Universal Sawmill](https://modrinth.com/mod/WRaRZdTd) [1\.21\-1\.7\.1] by MehVahdJukaar
 - [Untitled Duck Mod](https://modrinth.com/mod/ojFjz7JF) [1\.2\.0] by Suel\_ki, Okabintaro, ArtistMonster24
+- [VanillaBackport](https://modrinth.com/mod/6xwxDTgf) [1\.1\.4\.3] by BlackGear
+- [Vanillin](https://modrinth.com/mod/6qTrsXCy) [1\.1\.3] by Jozufozu, PepperCode1
 - [Visible Traders](https://modrinth.com/mod/AhllI99f) [0\.0\.7\.1] by Ramixin
 - [Waystones](https://modrinth.com/mod/LOpKHB2A) [21\.1\.23] by BlayTheNinth
 - [Xaero's Map Server Utils](https://modrinth.com/mod/YJgkgKMm) [1\.0\.1] by xxtg666

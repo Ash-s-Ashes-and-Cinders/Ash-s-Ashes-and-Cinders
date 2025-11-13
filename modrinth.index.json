@@ -2288,5 +2288,6 @@
     "formatVersion": 1,
     "game": "minecraft",
     "name": "Ash.s.Ashes.and.Cinders",
-    "versionId": "1.0.0"
+    "summary": "Ajout de plusieurs mods de structures, quelques uns de features et de ressources packs",
+    "versionId": "1.1.0"
 }

@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"brewinandchewin:pale_jane"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"brewinandchewin:pale_jane"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mounts_of_mayhem:netherite_spear","components":{"minecraft:damage":5}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mounts_of_mayhem:netherite_nautilus_shell"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mounts_of_mayhem:copper_nautilus_shell"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_ore_factory:zinc_solution"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_ore_factory:crystallized_zinc"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_ore_factory:zinc_powder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_ore_factory:steel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createfood:waffle_batter_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

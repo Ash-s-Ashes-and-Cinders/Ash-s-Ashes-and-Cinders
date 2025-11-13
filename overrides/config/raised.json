@@ -66,6 +66,39 @@
       },
       "sync": "appleskin:saturation_level"
     },
+    "brewinandchewin:food_offset": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "brewinandchewin:food_offset"
+    },
+    "brewinandchewin:intoxication": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "brewinandchewin:intoxication"
+    },
+    "brewinandchewin:tipsy": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "brewinandchewin:tipsy"
+    },
     "create:blueprint": {
       "displacement": {
         "x": 0,
@@ -245,7 +278,7 @@
     "minecraft:hotbar": {
       "displacement": {
         "x": 0,
-        "y": 2
+        "y": 1
       },
       "direction": {
         "x": "NONE",
